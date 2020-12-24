@@ -13,8 +13,8 @@
     "url": "git+https://github.com/ramreddy/login-utility.git"
   },
   "keywords": [
-    "login",
-    "utility"
+    "login-utility",
+    "get-ip"
   ],
   "bugs": {
     "url": "https://github.com/ramreddy/login-utility/issues"
