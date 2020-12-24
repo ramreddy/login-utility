@@ -1,6 +1,6 @@
 {
   "name": "login-utility",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "I created this package for **practice purpose**.",
   "main": "index.js",
   "scripts": {
