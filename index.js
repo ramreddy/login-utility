@@ -12,7 +12,7 @@
  */
 
 
- class LoginActivity{
+ class loginUtility{
 
 	constructor(request){
 		this.request=request
@@ -25,6 +25,6 @@
 
 }
 
-module.exports = LoginActivity
+module.exports = loginUtility
 
 
