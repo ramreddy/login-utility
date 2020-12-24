@@ -16,9 +16,9 @@ var app = express();
 var loginUtility = require('login-utility');
 
 
-app.get('/', function (req, res) {
+app.get('/', async (req, res) =>{
     const lu = new loginUtility(req);
-    const ip = lu.getIP();
+    const ip = await lu.getIP();
    res.send('My IP: '+ip);
 })
 
