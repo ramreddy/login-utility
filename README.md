@@ -1,2 +1,2 @@
-## experiment-npm-module
-I created this package for **practice purpose**.
+## login-utility
+The **package under development**, I will add a full description once coding completed.
