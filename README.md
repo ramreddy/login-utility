@@ -6,6 +6,8 @@
 # login-utility
 A **Node Js** library for getting basic user details when logged in  **Ex:** IP, OS Type, Browser details, Device type, and screen size, etc.
 
+[![NPM](https://nodei.co/npm/login-utility.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/login-utility/)
+
 ## Installation
 
 ```
