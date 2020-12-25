@@ -1,6 +1,6 @@
 ![Alt text](https://img.shields.io/npm/v/login-utility?style=plastic "login-activity")
 ![Alt text](https://img.shields.io/bundlephobia/min/login-utility "login-activity")
-![Alt text](https://img.shields.io/npm/l/login-utility "login-activity")
+![Alt text](https://img.shields.io/npm/dw/login-utility "login-activity")
 ![Alt text](https://img.shields.io/snyk/vulnerabilities/github/ramreddy/login-utility "login-activity")
 
 # login-utility
