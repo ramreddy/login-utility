@@ -1,7 +1,7 @@
 {
   "name": "login-utility",
   "version": "1.0.14",
-  "description": "",
+  "description": "A **Node Js** library for getting basic user details when logged in  **Ex:** IP, OS Type, Browser details, Device type, and screen size, etc.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
